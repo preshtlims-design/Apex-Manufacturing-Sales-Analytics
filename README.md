@@ -80,3 +80,10 @@ This project uses a small, simulated dataset. The results demonstrate analytical
 ## Project Files
 
 The repository contains the Power BI report, simulated Excel dataset, management report, portfolio case study and dashboard screenshots.
+
+## Project Documentation
+
+The following documents provide further details about the project:
+
+- **Management Report:** Detailed sales performance analysis, customer insights and business recommendations.
+- **Portfolio Case Study:** Concise overview of the business problem, analytical approach, key findings and skills demonstrated.
