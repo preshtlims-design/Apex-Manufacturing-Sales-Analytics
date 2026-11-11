@@ -83,7 +83,8 @@ The repository contains the Power BI report, simulated Excel dataset, management
 
 ## Project Documentation
 
-The following documents provide further details about the project:
+The following documents provide detailed insights into the project:
 
-- **Management Report:** Detailed sales performance analysis, customer insights and business recommendations.
-- **Portfolio Case Study:** Concise overview of the business problem, analytical approach, key findings and skills demonstrated.
+- 📄 [Management Report](Apex%20Manufacturing%20-%20Sales%20Performance%20and%20Customer%20Analysis%20Report.pdf) — Comprehensive sales performance analysis, customer insights and business recommendations.
+
+- 📄 [Portfolio Case Study](Apex%20Manufacturing%20%E2%80%93%20Portfolio%20Case%20Study.pdf) — Concise overview of the business problem, analytical approach, key findings and skills demonstrated.
