@@ -46,12 +46,15 @@ The objective was to transform raw transactional data into meaningful business i
 
 ### Sales Performance Dashboard
 
-Analyses net sales revenue, monthly trends, product contributions and regional performance.
+![Apex Manufacturing Sales Performance Dashboard](Sales%20Dashboard.png)
+
+This dashboard presents net sales revenue, monthly trends, product contributions and regional sales performance.
 
 ### Customer Analysis Dashboard
 
-Examines customer purchasing patterns and the distribution of Steel Bolt unit sales across retailers.
+![Apex Manufacturing Customer Analysis Dashboard](Customer%20Sales%20Analysis.png)
 
+This dashboard examines customer purchasing patterns and Steel Bolt unit sales distribution across retailers.
 ## Business Recommendations
 
 - Investigate the decline in monthly revenue.
